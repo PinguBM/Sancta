@@ -12,6 +12,7 @@ h1{
     background-image: linear-gradient(to right, #37251fbd, #392620b9);
     border-radius: 5px;
     box-shadow: 2px 2px 2px 2px #1b0d09;
+    padding: 0.4rem;
 }
 h2{
     display: block;
@@ -21,6 +22,7 @@ h2{
     margin: auto;
     margin-top: 10px;
     box-shadow: 2px 2px 2px 2px #1b0d09;
+    padding: 0.4rem;
 }
 main{
     text-align: center;
@@ -40,6 +42,7 @@ h3{
     border-radius: 5px;
     font-size: 1.3em;
     box-shadow: 2px 2px 2px 2px #1b0d09;
+    padding: 0.4rem;
 }
 p{
     padding: 5px;
@@ -47,6 +50,7 @@ p{
     border-radius: 10px;
     font-size: 1.2em;
     box-shadow: 2px 2px 2px 2px #1b0d09;
+    padding: 0.4rem;
 }
 a{
     border-radius: 10px;
