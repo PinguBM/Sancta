@@ -9,8 +9,9 @@ header{
 h1{
     margin: auto;
     display: inline-block;
-    background-image: linear-gradient(to right, #392620bd, #392620b9);
+    background-image: linear-gradient(to right, #37251fbd, #392620b9);
     border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px #1b0d09;
 }
 h2{
     display: block;
@@ -19,6 +20,7 @@ h2{
     width: fit-content;
     margin: auto;
     margin-top: 10px;
+    box-shadow: 2px 2px 2px 2px #1b0d09;
 }
 main{
     text-align: center;
@@ -29,18 +31,22 @@ main{
     padding: 20px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    background-color: #3a151a8f;
+
 }
 h3{
     background-image: linear-gradient(to right, #392620bd, #392620b9);
     display: inline-block;
     border-radius: 5px;
     font-size: 1.3em;
+    box-shadow: 2px 2px 2px 2px #1b0d09;
 }
 p{
     padding: 5px;
     background-color: #53372ebd;
     border-radius: 10px;
     font-size: 1.2em;
+    box-shadow: 2px 2px 2px 2px #1b0d09;
 }
 a{
     border-radius: 10px;
@@ -61,4 +67,11 @@ a:visited{
 ul{
      background-color: #53372ebd;
      border-radius: 10px;
+     box-shadow: 2px 2px 2px 2px #1b0d09;
+}
+picture{
+    display: block;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5));
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px black;
 }

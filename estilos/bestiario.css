@@ -40,3 +40,8 @@ a.link{
     border-radius: 5px;
     font-size: 1.4em;
 }
+picture{
+    display:inline-block;
+    background-color: black;
+    border-radius: 20px;
+}
